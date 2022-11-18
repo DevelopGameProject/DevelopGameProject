@@ -9,5 +9,3 @@
 7. Размер поля и количество мин можно изменить. По умолчанию поле размером 9x9 количество мин 10.
 
 ![This is an image](https://github.com/DevelopGameProject/DevelopGameProject/blob/main/docs/project.png)
-
-[Contribution guidelines for this project](README.md)
