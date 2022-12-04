@@ -2,7 +2,7 @@
 
 [Contribution guidelines for this project](../README.md)
 
-#SCRUM
+SCRUM
 
 1) Команда разработчиков состоит из 2 человек
 2) Планирование спринта
